@@ -1,0 +1,458 @@
+Team,Name,Number,Position,Age,Height,Weight,College,Salary
+Boston Celtics,Avery Bradley,0,PG,25,06-Feb,180,Texas,7730337
+Boston Celtics,Jae Crowder,99,SF,25,06-Jun,235,Marquette,6796117
+Boston Celtics,John Holland,30,SG,27,06-May,205,Boston University,
+Boston Celtics,R.J. Hunter,28,SG,22,06-May,185,Georgia State,1148640
+Boston Celtics,Jonas Jerebko,8,PF,29,06-Oct,231,,5000000
+Boston Celtics,Amir Johnson,90,PF,29,06-Sep,240,,12000000
+Boston Celtics,Jordan Mickey,55,PF,21,06-Aug,235,LSU,1170960
+Boston Celtics,Kelly Olynyk,41,C,25,7-0,238,Gonzaga,2165160
+Boston Celtics,Terry Rozier,12,PG,22,06-Feb,190,Louisville,1824360
+Boston Celtics,Marcus Smart,36,PG,22,06-Apr,220,Oklahoma State,3431040
+Boston Celtics,Jared Sullinger,7,C,24,06-Sep,260,Ohio State,2569260
+Boston Celtics,Isaiah Thomas,4,PG,27,05-Sep,185,Washington,6912869
+Boston Celtics,Evan Turner,11,SG,27,06-Jul,220,Ohio State,3425510
+Boston Celtics,James Young,13,SG,20,06-Jun,215,Kentucky,1749840
+Boston Celtics,Tyler Zeller,44,C,26,7-0,253,North Carolina,2616975
+Brooklyn Nets,Bojan Bogdanovic,44,SG,27,06-Aug,216,,3425510
+Brooklyn Nets,Markel Brown,22,SG,24,06-Mar,190,Oklahoma State,845059
+Brooklyn Nets,Wayne Ellington,21,SG,28,06-Apr,200,North Carolina,1500000
+Brooklyn Nets,Rondae Hollis-Jefferson,24,SG,21,06-Jul,220,Arizona,1335480
+Brooklyn Nets,Jarrett Jack,2,PG,32,06-Mar,200,Georgia Tech,6300000
+Brooklyn Nets,Sergey Karasev,10,SG,22,06-Jul,208,,1599840
+Brooklyn Nets,Sean Kilpatrick,6,SG,26,06-Apr,219,Cincinnati,134215
+Brooklyn Nets,Shane Larkin,0,PG,23,05-Nov,175,Miami (FL),1500000
+Brooklyn Nets,Brook Lopez,11,C,28,7-0,275,Stanford,19689000
+Brooklyn Nets,Chris McCullough,1,PF,21,06-Nov,200,Syracuse,1140240
+Brooklyn Nets,Willie Reed,33,PF,26,06-Oct,220,Saint Louis,947276
+Brooklyn Nets,Thomas Robinson,41,PF,25,06-Oct,237,Kansas,981348
+Brooklyn Nets,Henry Sims,14,C,26,06-Oct,248,Georgetown,947276
+Brooklyn Nets,Donald Sloan,15,PG,28,06-Mar,205,Texas A&M,947276
+Brooklyn Nets,Thaddeus Young,30,PF,27,06-Aug,221,Georgia Tech,11235955
+New York Knicks,Arron Afflalo,4,SG,30,06-May,210,UCLA,8000000
+New York Knicks,Lou Amundson,##,PF,33,06-Sep,220,UNLV,1635476
+New York Knicks,Thanasis Antetokounmpo,43,SF,23,06-Jul,205,,30888
+New York Knicks,Carmelo Anthony,7,SF,32,06-Aug,240,Syracuse,22875000
+New York Knicks,Jose Calderon,3,PG,34,06-Mar,200,,7402812
+New York Knicks,Cleanthony Early,11,SF,25,06-Aug,210,Wichita State,845059
+New York Knicks,Langston Galloway,2,SG,24,06-Feb,200,Saint Joseph's,845059
+New York Knicks,Jerian Grant,13,PG,23,06-Apr,195,Notre Dame,1572360
+New York Knicks,Robin Lopez,8,C,28,7-0,255,Stanford,12650000
+New York Knicks,Kyle O'Quinn,9,PF,26,06-Oct,250,Norfolk State,3750000
+New York Knicks,Kristaps Porzingis,6,PF,20,07-Mar,240,,4131720
+New York Knicks,Kevin Seraphin,1,C,26,06-Oct,278,,2814000
+New York Knicks,Lance Thomas,42,SF,28,06-Aug,235,Duke,1636842
+New York Knicks,Sasha Vujacic,18,SG,32,06-Jul,195,,947276
+New York Knicks,Derrick Williams,23,PF,25,06-Aug,240,Arizona,4000000
+New York Knicks,Tony Wroten,5,SG,23,06-Jun,205,Washington,167406
+Philadelphia 76ers,Elton Brand,42,PF,37,06-Sep,254,Duke,
+Philadelphia 76ers,Isaiah Canaan,0,PG,25,6-0,201,Murray State,947276
+Philadelphia 76ers,Robert Covington,33,SF,25,06-Sep,215,Tennessee State,1000000
+Philadelphia 76ers,Joel Embiid,21,C,22,7-0,250,Kansas,4626960
+Philadelphia 76ers,Jerami Grant,39,SF,22,06-Aug,210,Syracuse,845059
+Philadelphia 76ers,Richaun Holmes,22,PF,22,06-Oct,245,Bowling Green,1074169
+Philadelphia 76ers,Carl Landry,7,PF,32,06-Sep,248,Purdue,6500000
+Philadelphia 76ers,Kendall Marshall,5,PG,24,06-Apr,200,North Carolina,2144772
+Philadelphia 76ers,T.J. McConnell,12,PG,24,06-Feb,200,Arizona,525093
+Philadelphia 76ers,Nerlens Noel,4,PF,22,06-Nov,228,Kentucky,3457800
+Philadelphia 76ers,Jahlil Okafor,8,C,20,06-Nov,275,Duke,4582680
+Philadelphia 76ers,Ish Smith,1,PG,27,6-0,175,Wake Forest,947276
+Philadelphia 76ers,Nik Stauskas,11,SG,22,06-Jun,205,Michigan,2869440
+Philadelphia 76ers,Hollis Thompson,31,SG,25,06-Aug,206,Georgetown,947276
+Philadelphia 76ers,Christian Wood,35,PF,20,06-Nov,220,UNLV,525093
+Toronto Raptors,Bismack Biyombo,8,C,23,06-Sep,245,,2814000
+Toronto Raptors,Bruno Caboclo,20,SF,20,06-Sep,205,,1524000
+Toronto Raptors,DeMarre Carroll,5,SF,29,06-Aug,212,Missouri,13600000
+Toronto Raptors,DeMar DeRozan,10,SG,26,06-Jul,220,USC,10050000
+Toronto Raptors,James Johnson,3,PF,29,06-Sep,250,Wake Forest,2500000
+Toronto Raptors,Cory Joseph,6,PG,24,06-Mar,190,Texas,7000000
+Toronto Raptors,Kyle Lowry,7,PG,30,6-0,205,Villanova,12000000
+Toronto Raptors,Lucas Nogueira,92,C,23,7-0,220,,1842000
+Toronto Raptors,Patrick Patterson,54,PF,27,06-Sep,235,Kentucky,6268675
+Toronto Raptors,Norman Powell,24,SG,23,06-Apr,215,UCLA,650000
+Toronto Raptors,Terrence Ross,31,SF,25,06-Jul,195,Washington,3553917
+Toronto Raptors,Luis Scola,4,PF,36,06-Sep,240,,2900000
+Toronto Raptors,Jason Thompson,1,PF,29,06-Nov,250,Rider,245177
+Toronto Raptors,Jonas Valanciunas,17,C,24,7-0,255,,4660482
+Toronto Raptors,Delon Wright,55,PG,24,06-May,190,Utah,1509360
+Golden State Warriors,Leandro Barbosa,19,SG,33,06-Mar,194,,2500000
+Golden State Warriors,Harrison Barnes,40,SF,24,06-Aug,225,North Carolina,3873398
+Golden State Warriors,Andrew Bogut,12,C,31,7-0,260,Utah,13800000
+Golden State Warriors,Ian Clark,21,SG,25,06-Mar,175,Belmont,947276
+Golden State Warriors,Stephen Curry,30,PG,28,06-Mar,190,Davidson,11370786
+Golden State Warriors,Festus Ezeli,31,C,26,06-Nov,265,Vanderbilt,2008748
+Golden State Warriors,Draymond Green,23,PF,26,06-Jul,230,Michigan State,14260870
+Golden State Warriors,Andre Iguodala,9,SF,32,06-Jun,215,Arizona,11710456
+Golden State Warriors,Shaun Livingston,34,PG,30,06-Jul,192,,5543725
+Golden State Warriors,Kevon Looney,36,SF,20,06-Sep,220,UCLA,1131960
+Golden State Warriors,James Michael McAdoo,20,SF,23,06-Sep,240,North Carolina,845059
+Golden State Warriors,Brandon Rush,4,SF,30,06-Jun,220,Kansas,1270964
+Golden State Warriors,Marreese Speights,5,C,28,06-Oct,255,Florida,3815000
+Golden State Warriors,Klay Thompson,11,SG,26,06-Jul,215,Washington State,15501000
+Golden State Warriors,Anderson Varejao,18,PF,33,06-Nov,273,,289755
+Los Angeles Clippers,Cole Aldrich,45,C,27,06-Nov,250,Kansas,1100602
+Los Angeles Clippers,Jeff Ayres,19,PF,29,06-Sep,250,Arizona State,111444
+Los Angeles Clippers,Jamal Crawford,11,SG,36,06-May,195,Michigan,5675000
+Los Angeles Clippers,Branden Dawson,22,SF,23,06-Jun,225,Michigan State,525093
+Los Angeles Clippers,Jeff Green,8,SF,29,06-Sep,235,Georgetown,9650000
+Los Angeles Clippers,Blake Griffin,32,PF,27,06-Oct,251,Oklahoma,18907726
+Los Angeles Clippers,Wesley Johnson,33,SF,28,06-Jul,215,Syracuse,1100602
+Los Angeles Clippers,DeAndre Jordan,6,C,27,06-Nov,265,Texas A&M,19689000
+Los Angeles Clippers,Luc Richard Mbah a Moute,12,PF,29,06-Aug,230,UCLA,947276
+Los Angeles Clippers,Chris Paul,3,PG,31,6-0,175,Wake Forest,21468695
+Los Angeles Clippers,Paul Pierce,34,SF,38,06-Jul,235,Kansas,3376000
+Los Angeles Clippers,Pablo Prigioni,9,PG,39,06-Mar,185,,947726
+Los Angeles Clippers,JJ Redick,4,SG,31,06-Apr,190,Duke,7085000
+Los Angeles Clippers,Austin Rivers,25,PG,23,06-Apr,200,Duke,3110796
+Los Angeles Clippers,C.J. Wilcox,30,SG,25,06-May,195,Washington,1159680
+Los Angeles Lakers,Brandon Bass,2,PF,31,06-Aug,250,LSU,3000000
+Los Angeles Lakers,Tarik Black,28,C,24,06-Sep,250,Kansas,845059
+Los Angeles Lakers,Anthony Brown,3,SF,23,06-Jul,210,Stanford,700000
+Los Angeles Lakers,Kobe Bryant,24,SF,37,06-Jun,212,,25000000
+Los Angeles Lakers,Jordan Clarkson,6,PG,24,06-May,194,Missouri,845059
+Los Angeles Lakers,Roy Hibbert,17,C,29,07-Feb,270,Georgetown,15592217
+Los Angeles Lakers,Marcelo Huertas,9,PG,33,06-Mar,200,,525093
+Los Angeles Lakers,Ryan Kelly,4,PF,25,06-Nov,230,Duke,1724250
+Los Angeles Lakers,Larry Nance Jr.,7,PF,23,06-Sep,230,Wyoming,1155600
+Los Angeles Lakers,Julius Randle,30,PF,21,06-Sep,250,Kentucky,3132240
+Los Angeles Lakers,D'Angelo Russell,1,PG,20,06-May,195,Ohio State,5103120
+Los Angeles Lakers,Robert Sacre,50,C,27,7-0,270,Gonzaga,981348
+Los Angeles Lakers,Louis Williams,23,SG,29,06-Jan,175,,7000000
+Los Angeles Lakers,Metta World Peace,37,SF,36,06-Jul,260,St. John's,947276
+Los Angeles Lakers,Nick Young,0,SF,31,06-Jul,210,USC,5219169
+Phoenix Suns,Eric Bledsoe,2,PG,26,06-Jan,190,Kentucky,13500000
+Phoenix Suns,Devin Booker,1,SG,19,06-Jun,206,Kentucky,2127840
+Phoenix Suns,Chase Budinger,10,SF,28,06-Jul,209,Arizona,206192
+Phoenix Suns,Tyson Chandler,4,C,33,07-Jan,240,,13000000
+Phoenix Suns,Archie Goodwin,20,SG,21,06-May,200,Kentucky,1160160
+Phoenix Suns,John Jenkins,23,SG,25,06-Apr,215,Vanderbilt,981348
+Phoenix Suns,Brandon Knight,3,PG,24,06-Mar,189,Kentucky,13500000
+Phoenix Suns,Alex Len,21,C,22,07-Jan,260,Maryland,3807120
+Phoenix Suns,Jon Leuer,30,PF,27,06-Oct,228,Wisconsin,1035000
+Phoenix Suns,Phil Pressey,25,PG,25,05-Nov,175,Missouri,55722
+Phoenix Suns,Ronnie Price,14,PG,32,06-Feb,190,Utah Valley,947276
+Phoenix Suns,Mirza Teletovic,35,PF,30,06-Sep,242,,5500000
+Phoenix Suns,P.J. Tucker,17,SF,31,06-Jun,245,Texas,5500000
+Phoenix Suns,T.J. Warren,12,SF,22,06-Aug,230,North Carolina State,2041080
+Phoenix Suns,Alan Williams,15,C,23,06-Aug,260,UC Santa Barbara,83397
+Sacramento Kings,Quincy Acy,13,SF,25,06-Jul,240,Baylor,981348
+Sacramento Kings,James Anderson,5,SG,27,06-Jun,213,Oklahoma State,1015421
+Sacramento Kings,Marco Belinelli,3,SG,30,06-May,210,,6060606
+Sacramento Kings,Caron Butler,31,SF,36,06-Jul,228,Connecticut,1449187
+Sacramento Kings,Omri Casspi,18,SF,27,06-Sep,225,,2836186
+Sacramento Kings,Willie Cauley-Stein,0,C,22,7-0,240,Kentucky,3398280
+Sacramento Kings,Darren Collison,7,PG,28,6-0,175,UCLA,5013559
+Sacramento Kings,DeMarcus Cousins,15,C,25,06-Nov,270,Kentucky,15851950
+Sacramento Kings,Seth Curry,30,SG,25,06-Feb,185,Duke,947276
+Sacramento Kings,Duje Dukan,26,PF,24,06-Sep,220,Wisconsin,525093
+Sacramento Kings,Rudy Gay,8,SF,29,06-Aug,230,Connecticut,12403101
+Sacramento Kings,Kosta Koufos,41,C,27,7-0,265,Ohio State,7700000
+Sacramento Kings,Ben McLemore,23,SG,23,06-May,195,Kansas,3156600
+Sacramento Kings,Eric Moreland,25,PF,24,06-Oct,238,Oregon State,845059
+Sacramento Kings,Rajon Rondo,9,PG,30,06-Jan,186,Kentucky,9500000
+Chicago Bulls,Cameron Bairstow,41,PF,25,06-Sep,250,New Mexico,845059
+Chicago Bulls,Aaron Brooks,0,PG,31,6-0,161,Oregon,2250000
+Chicago Bulls,Jimmy Butler,21,SG,26,06-Jul,220,Marquette,16407500
+Chicago Bulls,Mike Dunleavy,34,SG,35,06-Sep,230,Duke,4500000
+Chicago Bulls,Cristiano Felicio,6,PF,23,06-Oct,275,,525093
+Chicago Bulls,Pau Gasol,16,C,35,7-0,250,,7448760
+Chicago Bulls,Taj Gibson,22,PF,30,06-Sep,225,USC,8500000
+Chicago Bulls,Justin Holiday,7,SG,27,06-Jun,185,Washington,947276
+Chicago Bulls,Doug McDermott,3,SF,24,06-Aug,225,Creighton,2380440
+Chicago Bulls,Nikola Mirotic,44,PF,25,06-Oct,220,,5543725
+Chicago Bulls,E'Twaun Moore,55,SG,27,06-Apr,191,Purdue,1015421
+Chicago Bulls,Joakim Noah,13,C,31,06-Nov,232,Florida,13400000
+Chicago Bulls,Bobby Portis,5,PF,21,06-Nov,230,Arkansas,1391160
+Chicago Bulls,Derrick Rose,1,PG,27,06-Mar,190,Memphis,20093064
+Chicago Bulls,Tony Snell,20,SF,24,06-Jul,200,New Mexico,1535880
+Cleveland Cavaliers,Matthew Dellavedova,8,PG,25,06-Apr,198,Saint Mary's,1147276
+Cleveland Cavaliers,Channing Frye,9,PF,33,06-Nov,255,Arizona,8193029
+Cleveland Cavaliers,Kyrie Irving,2,PG,24,06-Mar,193,Duke,16407501
+Cleveland Cavaliers,LeBron James,23,SF,31,06-Aug,250,,22970500
+Cleveland Cavaliers,Richard Jefferson,24,SF,35,06-Jul,233,Arizona,947276
+Cleveland Cavaliers,Dahntay Jones,30,SG,35,06-Jun,225,Duke,
+Cleveland Cavaliers,James Jones,1,SG,35,06-Aug,218,Miami (FL),947276
+Cleveland Cavaliers,Sasha Kaun,14,C,31,06-Nov,260,Kansas,1276000
+Cleveland Cavaliers,Kevin Love,0,PF,27,06-Oct,251,UCLA,19689000
+Cleveland Cavaliers,Jordan McRae,12,SG,25,06-May,179,Tennessee,111196
+Cleveland Cavaliers,Timofey Mozgov,20,C,29,07-Jan,275,,4950000
+Cleveland Cavaliers,Iman Shumpert,4,SG,25,06-May,220,Georgia Tech,8988765
+Cleveland Cavaliers,J.R. Smith,5,SG,30,06-Jun,225,,5000000
+Cleveland Cavaliers,Tristan Thompson,13,C,25,06-Sep,238,Texas,14260870
+Cleveland Cavaliers,Mo Williams,52,PG,33,06-Jan,198,Alabama,2100000
+Detroit Pistons,Joel Anthony,50,C,33,06-Sep,245,UNLV,2500000
+Detroit Pistons,Aron Baynes,12,C,29,06-Oct,260,Washington State,6500000
+Detroit Pistons,Steve Blake,22,PG,36,06-Mar,172,Maryland,2170465
+Detroit Pistons,Lorenzo Brown,17,PG,25,06-May,189,North Carolina State,111444
+Detroit Pistons,Reggie Bullock,25,SF,25,06-Jul,205,North Carolina,1252440
+Detroit Pistons,Kentavious Caldwell-Pope,5,SG,23,06-May,205,Georgia,2891760
+Detroit Pistons,Spencer Dinwiddie,8,PG,23,06-Jun,200,Colorado,845059
+Detroit Pistons,Andre Drummond,0,C,22,06-Nov,279,Connecticut,3272091
+Detroit Pistons,Tobias Harris,34,SF,23,06-Sep,235,Tennessee,16000000
+Detroit Pistons,Darrun Hilliard,6,SF,23,06-Jun,205,Villanova,600000
+Detroit Pistons,Reggie Jackson,1,PG,26,06-Mar,208,Boston College,13913044
+Detroit Pistons,Stanley Johnson,3,SF,20,06-Jul,245,Arizona,2841960
+Detroit Pistons,Jodie Meeks,20,SG,28,06-Apr,210,Kentucky,6270000
+Detroit Pistons,Marcus Morris,13,PF,26,06-Sep,235,Kansas,5000000
+Detroit Pistons,Anthony Tolliver,43,PF,31,06-Aug,240,Creighton,3000000
+Indiana Pacers,Lavoy Allen,5,PF,27,06-Sep,255,Temple,4050000
+Indiana Pacers,Rakeem Christmas,25,PF,24,06-Sep,250,Syracuse,1007026
+Indiana Pacers,Monta Ellis,11,SG,30,06-Mar,185,,10300000
+Indiana Pacers,Paul George,13,SF,26,06-Sep,220,Fresno State,17120106
+Indiana Pacers,George Hill,3,PG,30,06-Mar,188,IUPUI,8000000
+Indiana Pacers,Jordan Hill,27,C,28,06-Oct,235,Arizona,4000000
+Indiana Pacers,Solomon Hill,44,SF,25,06-Jul,225,Arizona,1358880
+Indiana Pacers,Ty Lawson,10,PG,28,05-Nov,195,North Carolina,211744
+Indiana Pacers,Ian Mahinmi,28,C,29,06-Nov,250,,4000000
+Indiana Pacers,C.J. Miles,0,SF,29,06-Jun,231,,4394225
+Indiana Pacers,Glenn Robinson III,40,SG,22,06-Jul,222,Michigan,1100000
+Indiana Pacers,Rodney Stuckey,2,PG,30,06-May,205,Eastern Washington,7000000
+Indiana Pacers,Myles Turner,33,PF,20,06-Nov,243,Texas,2357760
+Indiana Pacers,Shayne Whittington,42,PF,25,06-Nov,250,Western Michigan,845059
+Indiana Pacers,Joe Young,1,PG,23,06-Feb,180,Oregon,1007026
+Milwaukee Bucks,Giannis Antetokounmpo,34,SF,21,06-Nov,222,,1953960
+Milwaukee Bucks,Jerryd Bayless,19,PG,27,06-Mar,200,Arizona,3000000
+Milwaukee Bucks,Michael Carter-Williams,5,PG,24,06-Jun,190,Syracuse,2399040
+Milwaukee Bucks,Jared Cunningham,9,SG,25,06-Apr,195,Oregon State,947276
+Milwaukee Bucks,Tyler Ennis,11,PG,21,06-Mar,194,Syracuse,1662360
+Milwaukee Bucks,John Henson,31,PF,25,06-Nov,229,North Carolina,2943221
+Milwaukee Bucks,Damien Inglis,17,SF,21,06-Aug,246,,855000
+Milwaukee Bucks,O.J. Mayo,3,SG,28,06-May,210,USC,8000000
+Milwaukee Bucks,Khris Middleton,22,SG,24,06-Aug,234,Texas A&M,14700000
+Milwaukee Bucks,Greg Monroe,15,C,26,06-Nov,265,Georgetown,16407500
+Milwaukee Bucks,Steve Novak,6,SF,32,06-Oct,225,Marquette,295327
+Milwaukee Bucks,Johnny O'Bryant III,77,PF,23,06-Sep,257,LSU,845059
+Milwaukee Bucks,Jabari Parker,12,PF,21,06-Aug,250,Duke,5152440
+Milwaukee Bucks,Miles Plumlee,18,C,27,06-Nov,249,Duke,2109294
+Milwaukee Bucks,Greivis Vasquez,21,PG,29,06-Jun,217,Maryland,6600000
+Milwaukee Bucks,Rashad Vaughn,20,SG,19,06-Jun,202,UNLV,1733040
+Dallas Mavericks,Justin Anderson,1,SG,22,06-Jun,228,Virginia,1449000
+Dallas Mavericks,J.J. Barea,5,PG,31,6-0,185,Northeastern,4290000
+Dallas Mavericks,Jeremy Evans,21,SF,28,06-Sep,200,Western Kentucky,1100602
+Dallas Mavericks,Raymond Felton,2,PG,31,06-Jan,205,North Carolina,3950313
+Dallas Mavericks,Devin Harris,34,PG,33,06-Mar,185,Wisconsin,4053446
+Dallas Mavericks,David Lee,42,PF,33,06-Sep,245,Florida,2085671
+Dallas Mavericks,Wesley Matthews,23,SG,29,06-May,220,Marquette,16407500
+Dallas Mavericks,JaVale McGee,11,C,28,7-0,270,Nevada,1270964
+Dallas Mavericks,Salah Mejri,50,C,29,07-Feb,245,,525093
+Dallas Mavericks,Dirk Nowitzki,41,PF,37,7-0,245,,8333334
+Dallas Mavericks,Zaza Pachulia,27,C,32,06-Nov,275,,5200000
+Dallas Mavericks,Chandler Parsons,25,SF,27,06-Oct,230,Florida,15361500
+Dallas Mavericks,Dwight Powell,7,PF,24,06-Nov,240,Stanford,845059
+Dallas Mavericks,Charlie Villanueva,3,PF,31,06-Nov,232,Connecticut,947276
+Dallas Mavericks,Deron Williams,8,PG,31,06-Mar,200,Illinois,5378974
+Houston Rockets,Trevor Ariza,1,SF,30,06-Aug,215,UCLA,8193030
+Houston Rockets,Michael Beasley,8,SF,27,06-Oct,235,Kansas State,306527
+Houston Rockets,Patrick Beverley,2,PG,27,06-Jan,185,Arkansas,6486486
+Houston Rockets,Corey Brewer,33,SG,30,06-Sep,186,Florida,8229375
+Houston Rockets,Clint Capela,15,PF,22,06-Oct,240,,1242720
+Houston Rockets,Sam Dekker,7,SF,22,06-Sep,230,Wisconsin,1646400
+Houston Rockets,Andrew Goudelock,0,PG,27,06-Mar,200,Charleston,200600
+Houston Rockets,James Harden,13,SG,26,06-May,220,Arizona State,15756438
+Houston Rockets,Montrezl Harrell,35,PF,22,06-Aug,240,Louisville,1000000
+Houston Rockets,Dwight Howard,12,C,30,06-Nov,265,,22359364
+Houston Rockets,Terrence Jones,6,PF,24,06-Sep,252,Kentucky,2489530
+Houston Rockets,K.J. McDaniels,32,SG,23,06-Jun,205,Clemson,3189794
+Houston Rockets,Donatas Motiejunas,20,PF,25,7-0,222,,2288205
+Houston Rockets,Josh Smith,5,C,30,06-Sep,225,,947276
+Houston Rockets,Jason Terry,31,SG,38,06-Feb,185,Arizona,947276
+Memphis Grizzlies,Jordan Adams,3,SG,21,06-May,209,UCLA,1404600
+Memphis Grizzlies,Tony Allen,9,SG,34,06-Apr,213,Oklahoma State,5158539
+Memphis Grizzlies,Chris Andersen,7,PF,37,06-Oct,245,Blinn College,5000000
+Memphis Grizzlies,Matt Barnes,22,SF,36,06-Jul,226,UCLA,3542500
+Memphis Grizzlies,Vince Carter,15,SG,39,06-Jun,220,North Carolina,4088019
+Memphis Grizzlies,Mike Conley,11,PG,28,06-Jan,175,Ohio State,9588426
+Memphis Grizzlies,Bryce Cotton,8,PG,23,06-Jan,165,Providence,700902
+Memphis Grizzlies,Jordan Farmar,4,PG,29,06-Feb,180,UCLA,
+Memphis Grizzlies,Marc Gasol,33,C,31,07-Jan,255,,19688000
+Memphis Grizzlies,JaMychal Green,0,PF,25,06-Sep,227,Alabama,845059
+Memphis Grizzlies,P.J. Hairston,19,SF,23,06-Jun,230,North Carolina,1201440
+Memphis Grizzlies,Jarell Martin,10,PF,22,06-Oct,239,LSU,1230840
+Memphis Grizzlies,Ray McCallum,5,PG,24,06-Mar,190,Detroit,
+Memphis Grizzlies,Xavier Munford,14,PG,24,06-Mar,180,Rhode Island,
+Memphis Grizzlies,Zach Randolph,50,PF,34,06-Sep,260,Michigan State,9638555
+Memphis Grizzlies,Lance Stephenson,1,SF,25,06-May,230,Cincinnati,9000000
+Memphis Grizzlies,Alex Stepheson,35,PF,28,06-Oct,270,USC,
+Memphis Grizzlies,Brandan Wright,34,PF,28,06-Oct,210,North Carolina,5464000
+New Orleans Pelicans,Alexis Ajinca,42,C,28,07-Feb,248,,4389607
+New Orleans Pelicans,Ryan Anderson,33,PF,28,06-Oct,240,California,8500000
+New Orleans Pelicans,Omer Asik,3,C,29,7-0,255,,9213483
+New Orleans Pelicans,Luke Babbitt,8,SF,26,06-Sep,225,Nevada,1100602
+New Orleans Pelicans,Norris Cole,30,PG,27,06-Feb,175,Cleveland State,3036927
+New Orleans Pelicans,Dante Cunningham,44,PF,29,06-Aug,230,Villanova,2850000
+New Orleans Pelicans,Anthony Davis,23,PF,23,06-Oct,253,Kentucky,7070730
+New Orleans Pelicans,Bryce Dejean-Jones,31,SG,23,06-Jun,203,Iowa State,169883
+New Orleans Pelicans,Toney Douglas,16,PG,30,06-Feb,195,Florida State,1164858
+New Orleans Pelicans,James Ennis,4,SF,25,06-Jul,210,Long Beach State,845059
+New Orleans Pelicans,Tyreke Evans,1,SG,26,06-Jun,220,Memphis,10734586
+New Orleans Pelicans,Tim Frazier,2,PG,25,06-Jan,170,Penn State,845059
+New Orleans Pelicans,Alonzo Gee,15,SF,29,06-Jun,225,Alabama,1320000
+New Orleans Pelicans,Eric Gordon,10,SG,27,06-Apr,215,Indiana,15514031
+New Orleans Pelicans,Jordan Hamilton,25,SG,25,06-Jul,220,Texas,1015421
+New Orleans Pelicans,Jrue Holiday,11,PG,25,06-Apr,205,UCLA,10595507
+New Orleans Pelicans,Orlando Johnson,0,SG,27,06-May,220,UC Santa Barbara,55722
+New Orleans Pelicans,Kendrick Perkins,5,C,31,06-Oct,270,,947276
+New Orleans Pelicans,Quincy Pondexter,20,SF,28,06-Jul,220,Washington,3382023
+San Antonio Spurs,LaMarcus Aldridge,12,PF,30,06-Nov,240,Texas,19689000
+San Antonio Spurs,Kyle Anderson,1,SF,22,06-Sep,230,UCLA,1142880
+San Antonio Spurs,Matt Bonner,15,C,36,06-Oct,235,Florida,947276
+San Antonio Spurs,Boris Diaw,33,C,34,06-Aug,250,,7500000
+San Antonio Spurs,Tim Duncan,21,C,40,06-Nov,250,Wake Forest,5250000
+San Antonio Spurs,Manu Ginobili,20,SG,38,06-Jun,205,,2814000
+San Antonio Spurs,Danny Green,14,SG,28,06-Jun,215,North Carolina,10000000
+San Antonio Spurs,Kawhi Leonard,2,SF,24,06-Jul,230,San Diego State,16407500
+San Antonio Spurs,Boban Marjanovic,40,C,27,07-Mar,290,,1200000
+San Antonio Spurs,Kevin Martin,23,SG,33,06-Jul,199,Western Carolina,200600
+San Antonio Spurs,Andre Miller,24,PG,40,06-Mar,200,Utah,250750
+San Antonio Spurs,Patty Mills,8,PG,27,6-0,185,Saint Mary's,3578947
+San Antonio Spurs,Tony Parker,9,PG,34,06-Feb,185,,13437500
+San Antonio Spurs,Jonathon Simmons,17,SG,26,06-Jun,195,Houston,525093
+San Antonio Spurs,David West,30,PF,35,06-Sep,250,Xavier,1499187
+Atlanta Hawks,Kent Bazemore,24,SF,26,06-May,201,Old Dominion,2000000
+Atlanta Hawks,Tim Hardaway Jr.,10,SG,24,06-Jun,205,Michigan,1304520
+Atlanta Hawks,Kirk Hinrich,12,SG,35,06-Apr,190,Kansas,2854940
+Atlanta Hawks,Al Horford,15,C,30,06-Oct,245,Florida,12000000
+Atlanta Hawks,Kris Humphries,43,PF,31,06-Sep,235,Minnesota,1000000
+Atlanta Hawks,Kyle Korver,26,SG,35,06-Jul,212,Creighton,5746479
+Atlanta Hawks,Paul Millsap,4,PF,31,06-Aug,246,Louisiana Tech,18671659
+Atlanta Hawks,Mike Muscala,31,PF,24,06-Nov,240,Bucknell,947276
+Atlanta Hawks,Lamar Patterson,13,SG,24,06-May,225,Pittsburgh,525093
+Atlanta Hawks,Dennis Schroder,17,PG,22,06-Jan,172,,1763400
+Atlanta Hawks,Mike Scott,32,PF,27,06-Aug,237,Virginia,3333333
+Atlanta Hawks,Thabo Sefolosha,25,SF,32,06-Jul,220,,4000000
+Atlanta Hawks,Tiago Splitter,11,C,31,06-Nov,245,,9756250
+Atlanta Hawks,Walter Tavares,22,C,24,07-Mar,260,,1000000
+Atlanta Hawks,Jeff Teague,0,PG,27,06-Feb,186,Wake Forest,8000000
+Charlotte Hornets,Nicolas Batum,5,SG,27,06-Aug,200,,13125306
+Charlotte Hornets,Troy Daniels,30,SG,24,06-Apr,205,Virginia Commonwealth,947276
+Charlotte Hornets,Jorge Gutierrez,12,PG,27,06-Mar,189,California,189455
+Charlotte Hornets,Tyler Hansbrough,50,PF,30,06-Sep,250,North Carolina,947276
+Charlotte Hornets,Aaron Harrison,9,SG,21,06-Jun,210,Kentucky,525093
+Charlotte Hornets,Spencer Hawes,0,PF,28,07-Jan,245,Washington,6110034
+Charlotte Hornets,Al Jefferson,25,C,31,06-Oct,289,,13500000
+Charlotte Hornets,Frank Kaminsky III,44,C,23,7-0,240,Wisconsin,2612520
+Charlotte Hornets,Michael Kidd-Gilchrist,14,SF,22,06-Jul,232,Kentucky,6331404
+Charlotte Hornets,Jeremy Lamb,3,SG,24,06-May,185,Connecticut,3034356
+Charlotte Hornets,Courtney Lee,1,SG,30,06-May,200,Western Kentucky,5675000
+Charlotte Hornets,Jeremy Lin,7,PG,27,06-Mar,200,Harvard,2139000
+Charlotte Hornets,Kemba Walker,15,PG,26,06-Jan,184,Connecticut,12000000
+Charlotte Hornets,Marvin Williams,2,PF,29,06-Sep,237,North Carolina,7000000
+Charlotte Hornets,Cody Zeller,40,C,23,7-0,240,Indiana,4204200
+Miami Heat,Chris Bosh,1,PF,32,06-Nov,235,Georgia Tech,22192730
+Miami Heat,Luol Deng,9,SF,31,06-Sep,220,Duke,10151612
+Miami Heat,Goran Dragic,7,PG,30,06-Mar,190,,14783000
+Miami Heat,Gerald Green,14,SF,30,06-Jul,205,,947276
+Miami Heat,Udonis Haslem,40,PF,36,06-Aug,235,Florida,2854940
+Miami Heat,Joe Johnson,2,SF,34,06-Jul,240,Arkansas,261894
+Miami Heat,Tyler Johnson,8,SG,24,06-Apr,186,Fresno State,845059
+Miami Heat,Josh McRoberts,4,PF,29,06-Oct,240,Duke,5543725
+Miami Heat,Josh Richardson,0,SG,22,06-Jun,200,Tennessee,525093
+Miami Heat,Amar'e Stoudemire,5,PF,33,06-Oct,245,,947276
+Miami Heat,Dwyane Wade,3,SG,34,06-Apr,220,Marquette,20000000
+Miami Heat,Briante Weber,12,PG,23,06-Feb,165,Virginia Commonwealth,
+Miami Heat,Hassan Whiteside,21,C,26,7-0,265,Marshall,981348
+Miami Heat,Justise Winslow,20,SF,20,06-Jul,225,Duke,2481720
+Miami Heat,Dorell Wright,11,SF,30,06-Sep,205,,
+Orlando Magic,Dewayne Dedmon,3,C,26,7-0,245,USC,947276
+Orlando Magic,Evan Fournier,10,SG,23,06-Jul,205,,2288205
+Orlando Magic,Aaron Gordon,0,PF,20,06-Sep,220,Arizona,4171680
+Orlando Magic,Mario Hezonja,23,SG,21,06-Aug,218,,3741480
+Orlando Magic,Ersan Ilyasova,7,PF,29,06-Oct,235,,7900000
+Orlando Magic,Brandon Jennings,55,PG,26,06-Jan,169,,8344497
+Orlando Magic,Devyn Marble,11,SF,23,06-Jun,200,Iowa,845059
+Orlando Magic,Shabazz Napier,13,PG,24,06-Jan,175,Connecticut,1294440
+Orlando Magic,Andrew Nicholson,44,PF,26,06-Sep,250,St. Bonaventure,2380593
+Orlando Magic,Victor Oladipo,5,SG,24,06-Apr,210,Indiana,5192520
+Orlando Magic,Elfrid Payton,4,PG,22,06-Apr,185,Louisiana-Lafayette,2505720
+Orlando Magic,Jason Smith,14,PF,30,7-0,240,Colorado State,4300000
+Orlando Magic,Nikola Vucevic,9,C,25,7-0,260,USC,11250000
+Orlando Magic,C.J. Watson,32,PG,32,06-Feb,175,Tennessee,5000000
+Washington Wizards,Alan Anderson,6,SG,33,06-Jun,220,Michigan State,4000000
+Washington Wizards,Bradley Beal,3,SG,22,06-May,207,Florida,5694674
+Washington Wizards,Jared Dudley,1,SF,30,06-Jul,225,Boston College,4375000
+Washington Wizards,Jarell Eddie,8,SG,24,06-Jul,218,Virginia Tech,561716
+Washington Wizards,Drew Gooden,90,PF,34,06-Oct,250,Kansas,3300000
+Washington Wizards,Marcin Gortat,13,C,32,06-Nov,240,,11217391
+Washington Wizards,JJ Hickson,21,C,27,06-Sep,242,North Carolina State,273038
+Washington Wizards,Nene Hilario,42,C,33,06-Nov,250,,13000000
+Washington Wizards,Markieff Morris,5,PF,26,06-Oct,245,Kansas,8000000
+Washington Wizards,Kelly Oubre Jr.,12,SF,20,06-Jul,205,Kansas,1920240
+Washington Wizards,Otto Porter Jr.,22,SF,23,06-Aug,198,Georgetown,4662960
+Washington Wizards,Ramon Sessions,7,PG,30,06-Mar,190,Nevada,2170465
+Washington Wizards,Garrett Temple,17,SG,30,06-Jun,195,LSU,1100602
+Washington Wizards,Marcus Thornton,15,SF,29,06-Apr,205,LSU,200600
+Washington Wizards,John Wall,2,PG,25,06-Apr,195,Kentucky,15851950
+Denver Nuggets,Darrell Arthur,0,PF,28,06-Sep,235,Kansas,2814000
+Denver Nuggets,D.J. Augustin,12,PG,28,6-0,183,Texas,3000000
+Denver Nuggets,Will Barton,5,SF,25,06-Jun,175,Memphis,3533333
+Denver Nuggets,Wilson Chandler,21,SF,29,06-Aug,225,DePaul,10449438
+Denver Nuggets,Kenneth Faried,35,PF,26,06-Aug,228,Morehead State,11235955
+Denver Nuggets,Danilo Gallinari,8,SF,27,06-Oct,225,,14000000
+Denver Nuggets,Gary Harris,14,SG,21,06-Apr,210,Michigan State,1584480
+Denver Nuggets,Nikola Jokic,15,C,21,06-Oct,250,,1300000
+Denver Nuggets,Joffrey Lauvergne,77,C,24,06-Nov,220,,1709719
+Denver Nuggets,Mike Miller,3,SG,36,06-Aug,218,Florida,947276
+Denver Nuggets,Emmanuel Mudiay,0,PG,20,06-May,200,,3102240
+Denver Nuggets,Jameer Nelson,1,PG,34,6-0,190,Saint Joseph's,4345000
+Denver Nuggets,Jusuf Nurkic,23,C,21,7-0,280,,1842000
+Denver Nuggets,JaKarr Sampson,9,SG,23,06-Sep,214,St. John's,258489
+Denver Nuggets,Axel Toupane,6,SG,23,06-Jul,210,,
+Minnesota Timberwolves,Nemanja Bjelica,88,PF,28,06-Oct,240,,3950001
+Minnesota Timberwolves,Gorgui Dieng,5,C,26,06-Nov,241,Louisville,1474440
+Minnesota Timberwolves,Kevin Garnett,21,PF,40,06-Nov,240,,8500000
+Minnesota Timberwolves,Tyus Jones,1,PG,20,06-Feb,195,Duke,1282080
+Minnesota Timberwolves,Zach LaVine,8,PG,21,06-May,189,UCLA,2148360
+Minnesota Timberwolves,Shabazz Muhammad,15,SF,23,06-Jun,223,UCLA,2056920
+Minnesota Timberwolves,Adreian Payne,33,PF,25,06-Oct,237,Michigan State,1938840
+Minnesota Timberwolves,Nikola Pekovic,14,C,30,06-Nov,307,,12100000
+Minnesota Timberwolves,Tayshaun Prince,12,SF,36,06-Sep,212,Kentucky,947276
+Minnesota Timberwolves,Ricky Rubio,9,PG,25,06-Apr,194,,12700000
+Minnesota Timberwolves,Damjan Rudez,10,SF,29,06-Sep,230,,1149500
+Minnesota Timberwolves,Greg Smith,4,PF,25,06-Oct,250,Fresno State,
+Minnesota Timberwolves,Karl-Anthony Towns,32,C,20,7-0,244,Kentucky,5703600
+Minnesota Timberwolves,Andrew Wiggins,22,SG,21,06-Aug,199,Kansas,5758680
+Oklahoma City Thunder,Steven Adams,12,C,22,7-0,255,Pittsburgh,2279040
+Oklahoma City Thunder,Nick Collison,4,PF,35,06-Oct,255,Kansas,3750000
+Oklahoma City Thunder,Kevin Durant,35,SF,27,06-Sep,240,Texas,20158622
+Oklahoma City Thunder,Randy Foye,6,SG,32,06-Apr,213,Villanova,3135000
+Oklahoma City Thunder,Josh Huestis,34,SF,24,06-Jul,230,Stanford,1140240
+Oklahoma City Thunder,Serge Ibaka,9,PF,26,06-Oct,245,,12250000
+Oklahoma City Thunder,Enes Kanter,11,C,24,06-Nov,245,Kentucky,16407500
+Oklahoma City Thunder,Mitch McGary,33,PF,24,06-Oct,255,Michigan,1463040
+Oklahoma City Thunder,Nazr Mohammed,13,C,38,06-Oct,250,Kentucky,222888
+Oklahoma City Thunder,Anthony Morrow,2,SG,30,06-May,210,Georgia Tech,3344000
+Oklahoma City Thunder,Cameron Payne,22,PG,21,06-Mar,185,Murray State,2021520
+Oklahoma City Thunder,Andre Roberson,21,SG,24,06-Jul,210,Colorado,1210800
+Oklahoma City Thunder,Kyle Singler,5,SF,28,06-Aug,228,Duke,4500000
+Oklahoma City Thunder,Dion Waiters,3,SG,24,06-Apr,220,Syracuse,5138430
+Oklahoma City Thunder,Russell Westbrook,0,PG,27,06-Mar,200,UCLA,16744218
+Portland Trail Blazers,Cliff Alexander,34,PF,20,06-Aug,240,Kansas,525093
+Portland Trail Blazers,Al-Farouq Aminu,8,SF,25,06-Sep,215,Wake Forest,8042895
+Portland Trail Blazers,Pat Connaughton,5,SG,23,06-May,206,Notre Dame,625093
+Portland Trail Blazers,Allen Crabbe,23,SG,24,06-Jun,210,California,947276
+Portland Trail Blazers,Ed Davis,17,C,27,06-Oct,240,North Carolina,6980802
+Portland Trail Blazers,Maurice Harkless,4,SF,23,06-Sep,215,St. John's,2894059
+Portland Trail Blazers,Gerald Henderson,9,SG,28,06-May,215,Duke,6000000
+Portland Trail Blazers,Chris Kaman,35,C,34,7-0,265,Central Michigan,5016000
+Portland Trail Blazers,Meyers Leonard,11,PF,24,07-Jan,245,Illinois,3075880
+Portland Trail Blazers,Damian Lillard,0,PG,25,06-Mar,195,Weber State,4236287
+Portland Trail Blazers,C.J. McCollum,3,SG,24,06-Apr,200,Lehigh,2525160
+Portland Trail Blazers,Luis Montero,44,SG,23,06-Jul,185,Westchester CC,525093
+Portland Trail Blazers,Mason Plumlee,24,C,26,06-Nov,235,Duke,1415520
+Portland Trail Blazers,Brian Roberts,2,PG,30,06-Jan,173,Dayton,2854940
+Portland Trail Blazers,Noah Vonleh,21,PF,20,06-Sep,240,Indiana,2637720
+Utah Jazz,Trevor Booker,33,PF,28,06-Aug,228,Clemson,4775000
+Utah Jazz,Trey Burke,3,PG,23,06-Jan,191,Michigan,2658240
+Utah Jazz,Alec Burks,10,SG,24,06-Jun,214,Colorado,9463484
+Utah Jazz,Dante Exum,11,PG,20,06-Jun,190,,3777720
+Utah Jazz,Derrick Favors,15,PF,24,06-Oct,265,Georgia Tech,12000000
+Utah Jazz,Rudy Gobert,27,C,23,07-Jan,245,,1175880
+Utah Jazz,Gordon Hayward,20,SF,26,06-Aug,226,Butler,15409570
+Utah Jazz,Rodney Hood,5,SG,23,06-Aug,206,Duke,1348440
+Utah Jazz,Joe Ingles,2,SF,28,06-Aug,226,,2050000
+Utah Jazz,Chris Johnson,23,SF,26,06-Jun,206,Dayton,981348
+Utah Jazz,Trey Lyles,41,PF,20,06-Oct,234,Kentucky,2239800
+Utah Jazz,Shelvin Mack,8,PG,26,06-Mar,203,Butler,2433333
+Utah Jazz,Raul Neto,25,PG,24,06-Jan,179,,900000
+Utah Jazz,Tibor Pleiss,21,C,26,07-Mar,256,,2900000
+Utah Jazz,Jeff Withey,24,C,26,7-0,231,Kansas,947276
